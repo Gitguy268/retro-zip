@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>retro-zip</title>
+  <meta name="description" content="A retro game library: free games, your own game files, and games that run in a terminal.">
+  <link rel="icon" href="icon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="style.css">
+  <script src="notice.js"></script>
+  <script type="module" src="app.js"></script>
+</head>
+<body>
+  <div id="file-note" hidden>
+    <h1>retro-zip needs to be started first</h1>
+    <p>Browsers won't run emulators from a file opened directly. Close this tab and double-click <strong>start.command</strong> in the retro-zip folder. It opens the right page for you.</p>
+  </div>
+  <div id="app"></div>
+  <div id="toasts" role="status" aria-live="polite"></div>
+  <input id="picker" type="file" multiple hidden>
+</body>
+</html>

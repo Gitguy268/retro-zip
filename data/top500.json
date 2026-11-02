@@ -1,0 +1,3113 @@
+[
+{
+"rank":1,
+"title":"Pac-Man",
+"system":"arcade",
+"year":1980,
+"rom":"pacman"
+},
+{
+"rank":2,
+"title":"Super Mario Bros.",
+"system":"nes",
+"year":1985
+},
+{
+"rank":3,
+"title":"Street Fighter II: The World Warrior",
+"system":"arcade",
+"year":1991,
+"rom":"sf2"
+},
+{
+"rank":4,
+"title":"Tetris",
+"system":"gb",
+"year":1989
+},
+{
+"rank":5,
+"title":"Donkey Kong",
+"system":"arcade",
+"year":1981,
+"rom":"dkong"
+},
+{
+"rank":6,
+"title":"Doom",
+"system":"doom",
+"year":1993
+},
+{
+"rank":7,
+"title":"Sonic the Hedgehog 2",
+"system":"md",
+"year":1992
+},
+{
+"rank":8,
+"title":"The Legend of Zelda: A Link to the Past",
+"system":"snes",
+"year":1991
+},
+{
+"rank":9,
+"title":"Super Mario World",
+"system":"snes",
+"year":1990
+},
+{
+"rank":10,
+"title":"Streets of Rage 2",
+"system":"md",
+"year":1992
+},
+{
+"rank":11,
+"title":"Super Metroid",
+"system":"snes",
+"year":1994
+},
+{
+"rank":12,
+"title":"Chrono Trigger",
+"system":"snes",
+"year":1995
+},
+{
+"rank":13,
+"title":"Final Fantasy VI",
+"system":"snes",
+"year":1994
+},
+{
+"rank":14,
+"title":"Metal Gear Solid",
+"system":"psx",
+"year":1998
+},
+{
+"rank":15,
+"title":"Castlevania: Symphony of the Night",
+"system":"psx",
+"year":1997
+},
+{
+"rank":16,
+"title":"Final Fantasy VII",
+"system":"psx",
+"year":1997
+},
+{
+"rank":17,
+"title":"Galaga",
+"system":"arcade",
+"year":1981,
+"rom":"galaga"
+},
+{
+"rank":18,
+"title":"Space Invaders",
+"system":"arcade",
+"year":1978,
+"rom":"invaders"
+},
+{
+"rank":19,
+"title":"Asteroids",
+"system":"arcade",
+"year":1979,
+"rom":"asteroid"
+},
+{
+"rank":20,
+"title":"Ms. Pac-Man",
+"system":"arcade",
+"year":1982,
+"rom":"mspacman"
+},
+{
+"rank":21,
+"title":"Super Mario Bros. 3",
+"system":"nes",
+"year":1988
+},
+{
+"rank":22,
+"title":"The Legend of Zelda",
+"system":"nes",
+"year":1986
+},
+{
+"rank":23,
+"title":"Metroid",
+"system":"nes",
+"year":1986
+},
+{
+"rank":24,
+"title":"Mega Man 2",
+"system":"nes",
+"year":1988
+},
+{
+"rank":25,
+"title":"Contra",
+"system":"nes",
+"year":1988
+},
+{
+"rank":26,
+"title":"Punch-Out!!",
+"system":"nes",
+"year":1987
+},
+{
+"rank":27,
+"title":"Castlevania",
+"system":"nes",
+"year":1986
+},
+{
+"rank":28,
+"title":"Tetris",
+"system":"nes",
+"year":1989
+},
+{
+"rank":29,
+"title":"Sonic the Hedgehog",
+"system":"md",
+"year":1991
+},
+{
+"rank":30,
+"title":"Sonic the Hedgehog 3",
+"system":"md",
+"year":1994
+},
+{
+"rank":31,
+"title":"Sonic & Knuckles",
+"system":"md",
+"year":1994
+},
+{
+"rank":32,
+"title":"Gunstar Heroes",
+"system":"md",
+"year":1993
+},
+{
+"rank":33,
+"title":"Phantasy Star IV",
+"system":"md",
+"year":1993
+},
+{
+"rank":34,
+"title":"Earthworm Jim",
+"system":"md",
+"year":1994
+},
+{
+"rank":35,
+"title":"Mortal Kombat II",
+"system":"arcade",
+"year":1993,
+"rom":"mk2"
+},
+{
+"rank":36,
+"title":"Mortal Kombat",
+"system":"arcade",
+"year":1992,
+"rom":"mk"
+},
+{
+"rank":37,
+"title":"Street Fighter Alpha 3",
+"system":"arcade",
+"year":1998,
+"rom":"sfa3"
+},
+{
+"rank":38,
+"title":"Marvel vs. Capcom 2",
+"system":"arcade",
+"year":2000
+},
+{
+"rank":39,
+"title":"Metal Slug",
+"system":"arcade",
+"year":1996,
+"rom":"mslug"
+},
+{
+"rank":40,
+"title":"Metal Slug 3",
+"system":"arcade",
+"year":2000,
+"rom":"mslug3"
+},
+{
+"rank":41,
+"title":"The King of Fighters '98",
+"system":"arcade",
+"year":1998,
+"rom":"kof98"
+},
+{
+"rank":42,
+"title":"Samurai Shodown II",
+"system":"arcade",
+"year":1994,
+"rom":"samsho2"
+},
+{
+"rank":43,
+"title":"Final Fight",
+"system":"arcade",
+"year":1989,
+"rom":"ffight"
+},
+{
+"rank":44,
+"title":"Teenage Mutant Ninja Turtles",
+"system":"arcade",
+"year":1989,
+"rom":"tmnt"
+},
+{
+"rank":45,
+"title":"The Simpsons",
+"system":"arcade",
+"year":1991,
+"rom":"simpsons"
+},
+{
+"rank":46,
+"title":"X-Men",
+"system":"arcade",
+"year":1992,
+"rom":"xmen"
+},
+{
+"rank":47,
+"title":"Golden Axe",
+"system":"arcade",
+"year":1989,
+"rom":"goldnaxe"
+},
+{
+"rank":48,
+"title":"Double Dragon",
+"system":"arcade",
+"year":1987,
+"rom":"ddragon"
+},
+{
+"rank":49,
+"title":"Bubble Bobble",
+"system":"arcade",
+"year":1986,
+"rom":"bublbobl"
+},
+{
+"rank":50,
+"title":"Dig Dug",
+"system":"arcade",
+"year":1982,
+"rom":"digdug"
+},
+{
+"rank":51,
+"title":"Frogger",
+"system":"arcade",
+"year":1981,
+"rom":"frogger"
+},
+{
+"rank":52,
+"title":"Centipede",
+"system":"arcade",
+"year":1981,
+"rom":"centiped"
+},
+{
+"rank":53,
+"title":"Missile Command",
+"system":"arcade",
+"year":1980,
+"rom":"missile"
+},
+{
+"rank":54,
+"title":"Defender",
+"system":"arcade",
+"year":1981,
+"rom":"defender"
+},
+{
+"rank":55,
+"title":"Robotron: 2084",
+"system":"arcade",
+"year":1982,
+"rom":"robotron"
+},
+{
+"rank":56,
+"title":"Joust",
+"system":"arcade",
+"year":1982,
+"rom":"joust"
+},
+{
+"rank":57,
+"title":"Q*bert",
+"system":"arcade",
+"year":1982,
+"rom":"qbert"
+},
+{
+"rank":58,
+"title":"Tempest",
+"system":"arcade",
+"year":1981,
+"rom":"tempest"
+},
+{
+"rank":59,
+"title":"Galaxian",
+"system":"arcade",
+"year":1979,
+"rom":"galaxian"
+},
+{
+"rank":60,
+"title":"Donkey Kong Jr.",
+"system":"arcade",
+"year":1982,
+"rom":"dkongjr"
+},
+{
+"rank":61,
+"title":"Burger Time",
+"system":"arcade",
+"year":1982,
+"rom":"btime"
+},
+{
+"rank":62,
+"title":"Pole Position",
+"system":"arcade",
+"year":1982,
+"rom":"polepos"
+},
+{
+"rank":63,
+"title":"Out Run",
+"system":"arcade",
+"year":1986,
+"rom":"outrun"
+},
+{
+"rank":64,
+"title":"Hang-On",
+"system":"arcade",
+"year":1985,
+"rom":"hangon"
+},
+{
+"rank":65,
+"title":"Space Harrier",
+"system":"arcade",
+"year":1985,
+"rom":"sharrier"
+},
+{
+"rank":66,
+"title":"After Burner II",
+"system":"arcade",
+"year":1987,
+"rom":"aburner2"
+},
+{
+"rank":67,
+"title":"Shinobi",
+"system":"arcade",
+"year":1987,
+"rom":"shinobi"
+},
+{
+"rank":68,
+"title":"Altered Beast",
+"system":"arcade",
+"year":1988,
+"rom":"altbeast"
+},
+{
+"rank":69,
+"title":"R-Type",
+"system":"arcade",
+"year":1987,
+"rom":"rtype"
+},
+{
+"rank":70,
+"title":"Gradius",
+"system":"arcade",
+"year":1985,
+"rom":"nemesis"
+},
+{
+"rank":71,
+"title":"1942",
+"system":"arcade",
+"year":1984,
+"rom":"1942"
+},
+{
+"rank":72,
+"title":"1943: The Battle of Midway",
+"system":"arcade",
+"year":1987,
+"rom":"1943"
+},
+{
+"rank":73,
+"title":"Ghosts 'n Goblins",
+"system":"arcade",
+"year":1985,
+"rom":"gng"
+},
+{
+"rank":74,
+"title":"Ghouls 'n Ghosts",
+"system":"arcade",
+"year":1988,
+"rom":"ghouls"
+},
+{
+"rank":75,
+"title":"Commando",
+"system":"arcade",
+"year":1985,
+"rom":"commando"
+},
+{
+"rank":76,
+"title":"Ikari Warriors",
+"system":"arcade",
+"year":1986,
+"rom":"ikari"
+},
+{
+"rank":77,
+"title":"Rampage",
+"system":"arcade",
+"year":1986,
+"rom":"rampage"
+},
+{
+"rank":78,
+"title":"Paperboy",
+"system":"arcade",
+"year":1985,
+"rom":"paperboy"
+},
+{
+"rank":79,
+"title":"Gauntlet",
+"system":"arcade",
+"year":1985,
+"rom":"gauntlet"
+},
+{
+"rank":80,
+"title":"Marble Madness",
+"system":"arcade",
+"year":1984,
+"rom":"marble"
+},
+{
+"rank":81,
+"title":"Arkanoid",
+"system":"arcade",
+"year":1986,
+"rom":"arkanoid"
+},
+{
+"rank":82,
+"title":"Tron",
+"system":"arcade",
+"year":1982,
+"rom":"tron"
+},
+{
+"rank":83,
+"title":"Dragon's Lair",
+"system":"arcade",
+"year":1983
+},
+{
+"rank":84,
+"title":"Zaxxon",
+"system":"arcade",
+"year":1982,
+"rom":"zaxxon"
+},
+{
+"rank":85,
+"title":"Xevious",
+"system":"arcade",
+"year":1982,
+"rom":"xevious"
+},
+{
+"rank":86,
+"title":"Mappy",
+"system":"arcade",
+"year":1983,
+"rom":"mappy"
+},
+{
+"rank":87,
+"title":"Rally-X",
+"system":"arcade",
+"year":1980,
+"rom":"rallyx"
+},
+{
+"rank":88,
+"title":"Moon Patrol",
+"system":"arcade",
+"year":1982,
+"rom":"mpatrol"
+},
+{
+"rank":89,
+"title":"Kung-Fu Master",
+"system":"arcade",
+"year":1984,
+"rom":"kungfum"
+},
+{
+"rank":90,
+"title":"Karate Champ",
+"system":"arcade",
+"year":1984,
+"rom":"kchamp"
+},
+{
+"rank":91,
+"title":"Yie Ar Kung-Fu",
+"system":"arcade",
+"year":1985,
+"rom":"yiear"
+},
+{
+"rank":92,
+"title":"Track & Field",
+"system":"arcade",
+"year":1983,
+"rom":"trackfld"
+},
+{
+"rank":93,
+"title":"Tapper",
+"system":"arcade",
+"year":1983,
+"rom":"tapper"
+},
+{
+"rank":94,
+"title":"Elevator Action",
+"system":"arcade",
+"year":1983,
+"rom":"elevator"
+},
+{
+"rank":95,
+"title":"Bomb Jack",
+"system":"arcade",
+"year":1984,
+"rom":"bombjack"
+},
+{
+"rank":96,
+"title":"Pengo",
+"system":"arcade",
+"year":1982,
+"rom":"pengo"
+},
+{
+"rank":97,
+"title":"Lode Runner",
+"system":"arcade",
+"year":1984,
+"rom":"ldrun"
+},
+{
+"rank":98,
+"title":"Battle Zone",
+"system":"arcade",
+"year":1980,
+"rom":"bzone"
+},
+{
+"rank":99,
+"title":"Lunar Lander",
+"system":"arcade",
+"year":1979,
+"rom":"llander"
+},
+{
+"rank":100,
+"title":"Breakout",
+"system":"arcade",
+"year":1976,
+"rom":"breakout"
+},
+{
+"rank":101,
+"title":"Pong",
+"system":"arcade",
+"year":1972
+},
+{
+"rank":102,
+"title":"Berzerk",
+"system":"arcade",
+"year":1980,
+"rom":"berzerk"
+},
+{
+"rank":103,
+"title":"Sinistar",
+"system":"arcade",
+"year":1982,
+"rom":"sinistar"
+},
+{
+"rank":104,
+"title":"Crystal Castles",
+"system":"arcade",
+"year":1983,
+"rom":"ccastles"
+},
+{
+"rank":105,
+"title":"Time Pilot",
+"system":"arcade",
+"year":1982,
+"rom":"timeplt"
+},
+{
+"rank":106,
+"title":"Scramble",
+"system":"arcade",
+"year":1981,
+"rom":"scramble"
+},
+{
+"rank":107,
+"title":"Popeye",
+"system":"arcade",
+"year":1982,
+"rom":"popeye"
+},
+{
+"rank":108,
+"title":"Mario Bros.",
+"system":"arcade",
+"year":1983,
+"rom":"mario"
+},
+{
+"rank":109,
+"title":"Punch-Out!!",
+"system":"arcade",
+"year":1984,
+"rom":"punchout"
+},
+{
+"rank":110,
+"title":"Street Fighter II': Hyper Fighting",
+"system":"arcade",
+"year":1992,
+"rom":"sf2t"
+},
+{
+"rank":111,
+"title":"Super Street Fighter II Turbo",
+"system":"arcade",
+"year":1994,
+"rom":"ssf2t"
+},
+{
+"rank":112,
+"title":"Street Fighter III: 3rd Strike",
+"system":"arcade",
+"year":1999
+},
+{
+"rank":113,
+"title":"Darkstalkers: The Night Warriors",
+"system":"arcade",
+"year":1994,
+"rom":"dstlk"
+},
+{
+"rank":114,
+"title":"Captain Commando",
+"system":"arcade",
+"year":1991,
+"rom":"captcomm"
+},
+{
+"rank":115,
+"title":"Cadillacs and Dinosaurs",
+"system":"arcade",
+"year":1993,
+"rom":"dino"
+},
+{
+"rank":116,
+"title":"The Punisher",
+"system":"arcade",
+"year":1993,
+"rom":"punisher"
+},
+{
+"rank":117,
+"title":"Aliens vs. Predator",
+"system":"arcade",
+"year":1994,
+"rom":"avsp"
+},
+{
+"rank":118,
+"title":"Knights of the Round",
+"system":"arcade",
+"year":1991,
+"rom":"knights"
+},
+{
+"rank":119,
+"title":"Strider",
+"system":"arcade",
+"year":1989,
+"rom":"strider"
+},
+{
+"rank":120,
+"title":"Forgotten Worlds",
+"system":"arcade",
+"year":1988,
+"rom":"forgottn"
+},
+{
+"rank":121,
+"title":"Mercs",
+"system":"arcade",
+"year":1990,
+"rom":"mercs"
+},
+{
+"rank":122,
+"title":"Rygar",
+"system":"arcade",
+"year":1986,
+"rom":"rygar"
+},
+{
+"rank":123,
+"title":"Ninja Gaiden",
+"system":"arcade",
+"year":1988,
+"rom":"shadoww"
+},
+{
+"rank":124,
+"title":"Bad Dudes vs. DragonNinja",
+"system":"arcade",
+"year":1988,
+"rom":"baddudes"
+},
+{
+"rank":125,
+"title":"Rastan",
+"system":"arcade",
+"year":1987,
+"rom":"rastan"
+},
+{
+"rank":126,
+"title":"Operation Wolf",
+"system":"arcade",
+"year":1987,
+"rom":"opwolf"
+},
+{
+"rank":127,
+"title":"Sunset Riders",
+"system":"arcade",
+"year":1991,
+"rom":"ssriders"
+},
+{
+"rank":128,
+"title":"Vendetta",
+"system":"arcade",
+"year":1991,
+"rom":"vendetta"
+},
+{
+"rank":129,
+"title":"Bubble Symphony",
+"system":"arcade",
+"year":1994
+},
+{
+"rank":130,
+"title":"Puzzle Bobble",
+"system":"arcade",
+"year":1994,
+"rom":"pbobble"
+},
+{
+"rank":131,
+"title":"Snow Bros.",
+"system":"arcade",
+"year":1990,
+"rom":"snowbros"
+},
+{
+"rank":132,
+"title":"Rod Land",
+"system":"arcade",
+"year":1990,
+"rom":"rodland"
+},
+{
+"rank":133,
+"title":"Toki",
+"system":"arcade",
+"year":1989,
+"rom":"toki"
+},
+{
+"rank":134,
+"title":"Raiden",
+"system":"arcade",
+"year":1990,
+"rom":"raiden"
+},
+{
+"rank":135,
+"title":"DoDonPachi",
+"system":"arcade",
+"year":1997
+},
+{
+"rank":136,
+"title":"Blazing Star",
+"system":"arcade",
+"year":1998,
+"rom":"blazstar"
+},
+{
+"rank":137,
+"title":"Garou: Mark of the Wolves",
+"system":"arcade",
+"year":1999,
+"rom":"garou"
+},
+{
+"rank":138,
+"title":"The Last Blade 2",
+"system":"arcade",
+"year":1998,
+"rom":"lastbld2"
+},
+{
+"rank":139,
+"title":"Neo Turf Masters",
+"system":"arcade",
+"year":1996,
+"rom":"turfmast"
+},
+{
+"rank":140,
+"title":"Windjammers",
+"system":"arcade",
+"year":1994,
+"rom":"wjammers"
+},
+{
+"rank":141,
+"title":"Sengoku 2",
+"system":"arcade",
+"year":1993,
+"rom":"sengoku2"
+},
+{
+"rank":142,
+"title":"Fatal Fury Special",
+"system":"arcade",
+"year":1993,
+"rom":"fatfursp"
+},
+{
+"rank":143,
+"title":"Art of Fighting 3",
+"system":"arcade",
+"year":1996,
+"rom":"aof3"
+},
+{
+"rank":144,
+"title":"NBA Jam",
+"system":"arcade",
+"year":1993,
+"rom":"nbajam"
+},
+{
+"rank":145,
+"title":"NFL Blitz",
+"system":"arcade",
+"year":1997
+},
+{
+"rank":146,
+"title":"Ridge Racer",
+"system":"arcade",
+"year":1993
+},
+{
+"rank":147,
+"title":"Virtua Fighter",
+"system":"arcade",
+"year":1993
+},
+{
+"rank":148,
+"title":"Virtua Racing",
+"system":"arcade",
+"year":1992
+},
+{
+"rank":149,
+"title":"Daytona USA",
+"system":"arcade",
+"year":1994
+},
+{
+"rank":150,
+"title":"Super Mario Land",
+"system":"gb",
+"year":1989
+},
+{
+"rank":151,
+"title":"Super Mario Land 2: 6 Golden Coins",
+"system":"gb",
+"year":1992
+},
+{
+"rank":152,
+"title":"Wario Land: Super Mario Land 3",
+"system":"gb",
+"year":1994
+},
+{
+"rank":153,
+"title":"The Legend of Zelda: Link's Awakening",
+"system":"gb",
+"year":1993
+},
+{
+"rank":154,
+"title":"Metroid II: Return of Samus",
+"system":"gb",
+"year":1991
+},
+{
+"rank":155,
+"title":"Kirby's Dream Land",
+"system":"gb",
+"year":1992
+},
+{
+"rank":156,
+"title":"Kirby's Dream Land 2",
+"system":"gb",
+"year":1995
+},
+{
+"rank":157,
+"title":"Pokemon Red Version",
+"system":"gb",
+"year":1996
+},
+{
+"rank":158,
+"title":"Pokemon Blue Version",
+"system":"gb",
+"year":1996
+},
+{
+"rank":159,
+"title":"Pokemon Yellow Version",
+"system":"gb",
+"year":1998
+},
+{
+"rank":160,
+"title":"Pokemon Gold Version",
+"system":"gb",
+"year":1999
+},
+{
+"rank":161,
+"title":"Pokemon Silver Version",
+"system":"gb",
+"year":1999
+},
+{
+"rank":162,
+"title":"Pokemon Crystal Version",
+"system":"gb",
+"year":2000
+},
+{
+"rank":163,
+"title":"Dr. Mario",
+"system":"gb",
+"year":1990
+},
+{
+"rank":164,
+"title":"Donkey Kong",
+"system":"gb",
+"year":1994
+},
+{
+"rank":165,
+"title":"Donkey Kong Land",
+"system":"gb",
+"year":1995
+},
+{
+"rank":166,
+"title":"Mega Man: Dr. Wily's Revenge",
+"system":"gb",
+"year":1991
+},
+{
+"rank":167,
+"title":"Mega Man V",
+"system":"gb",
+"year":1994
+},
+{
+"rank":168,
+"title":"Final Fantasy Adventure",
+"system":"gb",
+"year":1991
+},
+{
+"rank":169,
+"title":"Final Fantasy Legend",
+"system":"gb",
+"year":1989
+},
+{
+"rank":170,
+"title":"Castlevania: The Adventure",
+"system":"gb",
+"year":1989
+},
+{
+"rank":171,
+"title":"Gargoyle's Quest",
+"system":"gb",
+"year":1990
+},
+{
+"rank":172,
+"title":"Kid Icarus: Of Myths and Monsters",
+"system":"gb",
+"year":1991
+},
+{
+"rank":173,
+"title":"Link's Awakening DX",
+"system":"gb",
+"year":1998
+},
+{
+"rank":174,
+"title":"The Legend of Zelda: Oracle of Ages",
+"system":"gb",
+"year":2001
+},
+{
+"rank":175,
+"title":"The Legend of Zelda: Oracle of Seasons",
+"system":"gb",
+"year":2001
+},
+{
+"rank":176,
+"title":"Super Mario Bros. Deluxe",
+"system":"gb",
+"year":1999
+},
+{
+"rank":177,
+"title":"Wario Land 3",
+"system":"gb",
+"year":2000
+},
+{
+"rank":178,
+"title":"Dragon Warrior Monsters",
+"system":"gb",
+"year":1998
+},
+{
+"rank":179,
+"title":"Harvest Moon GB",
+"system":"gb",
+"year":1997
+},
+{
+"rank":180,
+"title":"Tetris DX",
+"system":"gb",
+"year":1998
+},
+{
+"rank":181,
+"title":"Kirby's Pinball Land",
+"system":"gb",
+"year":1993
+},
+{
+"rank":182,
+"title":"Pokemon Pinball",
+"system":"gb",
+"year":1999
+},
+{
+"rank":183,
+"title":"Pokemon Trading Card Game",
+"system":"gb",
+"year":1998
+},
+{
+"rank":184,
+"title":"Shantae",
+"system":"gb",
+"year":2002
+},
+{
+"rank":185,
+"title":"Metal Gear Solid: Ghost Babel",
+"system":"gb",
+"year":2000
+},
+{
+"rank":186,
+"title":"Duck Hunt",
+"system":"nes",
+"year":1984
+},
+{
+"rank":187,
+"title":"Excitebike",
+"system":"nes",
+"year":1984
+},
+{
+"rank":188,
+"title":"Ice Climber",
+"system":"nes",
+"year":1985
+},
+{
+"rank":189,
+"title":"Balloon Fight",
+"system":"nes",
+"year":1985
+},
+{
+"rank":190,
+"title":"Kirby's Adventure",
+"system":"nes",
+"year":1993
+},
+{
+"rank":191,
+"title":"Super Mario Bros. 2",
+"system":"nes",
+"year":1988
+},
+{
+"rank":192,
+"title":"Zelda II: The Adventure of Link",
+"system":"nes",
+"year":1987
+},
+{
+"rank":193,
+"title":"Mega Man",
+"system":"nes",
+"year":1987
+},
+{
+"rank":194,
+"title":"Mega Man 3",
+"system":"nes",
+"year":1990
+},
+{
+"rank":195,
+"title":"Mega Man 4",
+"system":"nes",
+"year":1991
+},
+{
+"rank":196,
+"title":"Castlevania II: Simon's Quest",
+"system":"nes",
+"year":1987
+},
+{
+"rank":197,
+"title":"Castlevania III: Dracula's Curse",
+"system":"nes",
+"year":1989
+},
+{
+"rank":198,
+"title":"Ninja Gaiden",
+"system":"nes",
+"year":1988
+},
+{
+"rank":199,
+"title":"Ninja Gaiden II: The Dark Sword of Chaos",
+"system":"nes",
+"year":1990
+},
+{
+"rank":200,
+"title":"Final Fantasy",
+"system":"nes",
+"year":1987
+},
+{
+"rank":201,
+"title":"Dragon Quest",
+"system":"nes",
+"year":1986
+},
+{
+"rank":202,
+"title":"Dragon Warrior III",
+"system":"nes",
+"year":1988
+},
+{
+"rank":203,
+"title":"Super C",
+"system":"nes",
+"year":1990
+},
+{
+"rank":204,
+"title":"Battletoads",
+"system":"nes",
+"year":1991
+},
+{
+"rank":205,
+"title":"Double Dragon II: The Revenge",
+"system":"nes",
+"year":1989
+},
+{
+"rank":206,
+"title":"River City Ransom",
+"system":"nes",
+"year":1989
+},
+{
+"rank":207,
+"title":"Kid Icarus",
+"system":"nes",
+"year":1986
+},
+{
+"rank":208,
+"title":"Blaster Master",
+"system":"nes",
+"year":1988
+},
+{
+"rank":209,
+"title":"Bionic Commando",
+"system":"nes",
+"year":1988
+},
+{
+"rank":210,
+"title":"DuckTales",
+"system":"nes",
+"year":1989
+},
+{
+"rank":211,
+"title":"Chip 'n Dale Rescue Rangers",
+"system":"nes",
+"year":1990
+},
+{
+"rank":212,
+"title":"Teenage Mutant Ninja Turtles II: The Arcade Game",
+"system":"nes",
+"year":1990
+},
+{
+"rank":213,
+"title":"Tecmo Super Bowl",
+"system":"nes",
+"year":1991
+},
+{
+"rank":214,
+"title":"Tecmo Bowl",
+"system":"nes",
+"year":1987
+},
+{
+"rank":215,
+"title":"Dr. Mario",
+"system":"nes",
+"year":1990
+},
+{
+"rank":216,
+"title":"StarTropics",
+"system":"nes",
+"year":1990
+},
+{
+"rank":217,
+"title":"Crystalis",
+"system":"nes",
+"year":1990
+},
+{
+"rank":218,
+"title":"Ice Hockey",
+"system":"nes",
+"year":1988
+},
+{
+"rank":219,
+"title":"Gradius",
+"system":"nes",
+"year":1986
+},
+{
+"rank":220,
+"title":"Life Force",
+"system":"nes",
+"year":1988
+},
+{
+"rank":221,
+"title":"Adventure Island",
+"system":"nes",
+"year":1988
+},
+{
+"rank":222,
+"title":"Bubble Bobble",
+"system":"nes",
+"year":1988
+},
+{
+"rank":223,
+"title":"Bomberman",
+"system":"nes",
+"year":1987
+},
+{
+"rank":224,
+"title":"Little Nemo: The Dream Master",
+"system":"nes",
+"year":1990
+},
+{
+"rank":225,
+"title":"Mike Tyson's Punch-Out!!",
+"system":"nes",
+"year":1987
+},
+{
+"rank":226,
+"title":"Faxanadu",
+"system":"nes",
+"year":1989
+},
+{
+"rank":227,
+"title":"Metal Gear",
+"system":"nes",
+"year":1988
+},
+{
+"rank":228,
+"title":"Maniac Mansion",
+"system":"nes",
+"year":1988
+},
+{
+"rank":229,
+"title":"Rad Racer",
+"system":"nes",
+"year":1987
+},
+{
+"rank":230,
+"title":"Tetris 2",
+"system":"nes",
+"year":1993
+},
+{
+"rank":231,
+"title":"Kickle Cubicle",
+"system":"nes",
+"year":1990
+},
+{
+"rank":232,
+"title":"Solomon's Key",
+"system":"nes",
+"year":1987
+},
+{
+"rank":233,
+"title":"Gauntlet",
+"system":"nes",
+"year":1987
+},
+{
+"rank":234,
+"title":"Paperboy",
+"system":"nes",
+"year":1988
+},
+{
+"rank":235,
+"title":"Pac-Man",
+"system":"nes",
+"year":1984
+},
+{
+"rank":236,
+"title":"Super Mario Kart",
+"system":"snes",
+"year":1992
+},
+{
+"rank":237,
+"title":"Super Mario World 2: Yoshi's Island",
+"system":"snes",
+"year":1995
+},
+{
+"rank":238,
+"title":"Super Mario RPG: Legend of the Seven Stars",
+"system":"snes",
+"year":1996
+},
+{
+"rank":239,
+"title":"Donkey Kong Country",
+"system":"snes",
+"year":1994
+},
+{
+"rank":240,
+"title":"Donkey Kong Country 2: Diddy's Kong Quest",
+"system":"snes",
+"year":1995
+},
+{
+"rank":241,
+"title":"Donkey Kong Country 3: Dixie Kong's Double Trouble!",
+"system":"snes",
+"year":1996
+},
+{
+"rank":242,
+"title":"EarthBound",
+"system":"snes",
+"year":1994
+},
+{
+"rank":243,
+"title":"Secret of Mana",
+"system":"snes",
+"year":1993
+},
+{
+"rank":244,
+"title":"Final Fantasy IV",
+"system":"snes",
+"year":1991
+},
+{
+"rank":245,
+"title":"Final Fantasy V",
+"system":"snes",
+"year":1992
+},
+{
+"rank":246,
+"title":"Star Fox",
+"system":"snes",
+"year":1993
+},
+{
+"rank":247,
+"title":"F-Zero",
+"system":"snes",
+"year":1990
+},
+{
+"rank":248,
+"title":"Pilotwings",
+"system":"snes",
+"year":1990
+},
+{
+"rank":249,
+"title":"Kirby Super Star",
+"system":"snes",
+"year":1996
+},
+{
+"rank":250,
+"title":"Kirby's Dream Course",
+"system":"snes",
+"year":1994
+},
+{
+"rank":251,
+"title":"Mega Man X",
+"system":"snes",
+"year":1993
+},
+{
+"rank":252,
+"title":"Mega Man X2",
+"system":"snes",
+"year":1994
+},
+{
+"rank":253,
+"title":"Mega Man X3",
+"system":"snes",
+"year":1995
+},
+{
+"rank":254,
+"title":"Super Castlevania IV",
+"system":"snes",
+"year":1991
+},
+{
+"rank":255,
+"title":"Contra III: The Alien Wars",
+"system":"snes",
+"year":1992
+},
+{
+"rank":256,
+"title":"Super Street Fighter II",
+"system":"snes",
+"year":1994
+},
+{
+"rank":257,
+"title":"Street Fighter II Turbo: Hyper Fighting",
+"system":"snes",
+"year":1993
+},
+{
+"rank":258,
+"title":"Mortal Kombat II",
+"system":"snes",
+"year":1994
+},
+{
+"rank":259,
+"title":"Killer Instinct",
+"system":"snes",
+"year":1995
+},
+{
+"rank":260,
+"title":"Super Punch-Out!!",
+"system":"snes",
+"year":1994
+},
+{
+"rank":261,
+"title":"Super Bomberman",
+"system":"snes",
+"year":1993
+},
+{
+"rank":262,
+"title":"Super Ghouls 'n Ghosts",
+"system":"snes",
+"year":1991
+},
+{
+"rank":263,
+"title":"ActRaiser",
+"system":"snes",
+"year":1990
+},
+{
+"rank":264,
+"title":"Illusion of Gaia",
+"system":"snes",
+"year":1993
+},
+{
+"rank":265,
+"title":"Terranigma",
+"system":"snes",
+"year":1995
+},
+{
+"rank":266,
+"title":"Tales of Phantasia",
+"system":"snes",
+"year":1995
+},
+{
+"rank":267,
+"title":"Breath of Fire II",
+"system":"snes",
+"year":1994
+},
+{
+"rank":268,
+"title":"Lufia II: Rise of the Sinistrals",
+"system":"snes",
+"year":1995
+},
+{
+"rank":269,
+"title":"Ogre Battle: The March of the Black Queen",
+"system":"snes",
+"year":1993
+},
+{
+"rank":270,
+"title":"Harvest Moon",
+"system":"snes",
+"year":1996
+},
+{
+"rank":271,
+"title":"SimCity",
+"system":"snes",
+"year":1991
+},
+{
+"rank":272,
+"title":"Super Tennis",
+"system":"snes",
+"year":1991
+},
+{
+"rank":273,
+"title":"Teenage Mutant Ninja Turtles IV: Turtles in Time",
+"system":"snes",
+"year":1992
+},
+{
+"rank":274,
+"title":"The Lost Vikings",
+"system":"snes",
+"year":1993
+},
+{
+"rank":275,
+"title":"Rock n' Roll Racing",
+"system":"snes",
+"year":1993
+},
+{
+"rank":276,
+"title":"Zombies Ate My Neighbors",
+"system":"snes",
+"year":1993
+},
+{
+"rank":277,
+"title":"Sunset Riders",
+"system":"snes",
+"year":1993
+},
+{
+"rank":278,
+"title":"Aladdin",
+"system":"snes",
+"year":1993
+},
+{
+"rank":279,
+"title":"The Lion King",
+"system":"snes",
+"year":1994
+},
+{
+"rank":280,
+"title":"Soul Blazer",
+"system":"snes",
+"year":1992
+},
+{
+"rank":281,
+"title":"Demon's Crest",
+"system":"snes",
+"year":1994
+},
+{
+"rank":282,
+"title":"Pocky & Rocky",
+"system":"snes",
+"year":1992
+},
+{
+"rank":283,
+"title":"Goof Troop",
+"system":"snes",
+"year":1993
+},
+{
+"rank":284,
+"title":"Tetris Attack",
+"system":"snes",
+"year":1996
+},
+{
+"rank":285,
+"title":"Yoshi's Cookie",
+"system":"snes",
+"year":1993
+},
+{
+"rank":286,
+"title":"Super Star Wars",
+"system":"snes",
+"year":1992
+},
+{
+"rank":287,
+"title":"Super Turrican",
+"system":"snes",
+"year":1993
+},
+{
+"rank":288,
+"title":"R-Type III: The Third Lightning",
+"system":"snes",
+"year":1993
+},
+{
+"rank":289,
+"title":"Gradius III",
+"system":"snes",
+"year":1990
+},
+{
+"rank":290,
+"title":"Sonic Spinball",
+"system":"md",
+"year":1993
+},
+{
+"rank":291,
+"title":"Sonic 3D Blast",
+"system":"md",
+"year":1996
+},
+{
+"rank":292,
+"title":"Dr. Robotnik's Mean Bean Machine",
+"system":"md",
+"year":1993
+},
+{
+"rank":293,
+"title":"Streets of Rage",
+"system":"md",
+"year":1991
+},
+{
+"rank":294,
+"title":"Streets of Rage 3",
+"system":"md",
+"year":1994
+},
+{
+"rank":295,
+"title":"Golden Axe",
+"system":"md",
+"year":1989
+},
+{
+"rank":296,
+"title":"Golden Axe II",
+"system":"md",
+"year":1991
+},
+{
+"rank":297,
+"title":"Shinobi III: Return of the Ninja Master",
+"system":"md",
+"year":1993
+},
+{
+"rank":298,
+"title":"The Revenge of Shinobi",
+"system":"md",
+"year":1989
+},
+{
+"rank":299,
+"title":"Altered Beast",
+"system":"md",
+"year":1988
+},
+{
+"rank":300,
+"title":"Ghouls 'n Ghosts",
+"system":"md",
+"year":1989
+},
+{
+"rank":301,
+"title":"Castlevania: Bloodlines",
+"system":"md",
+"year":1994
+},
+{
+"rank":302,
+"title":"Contra: Hard Corps",
+"system":"md",
+"year":1994
+},
+{
+"rank":303,
+"title":"Mega Turrican",
+"system":"md",
+"year":1994
+},
+{
+"rank":304,
+"title":"Thunder Force III",
+"system":"md",
+"year":1990
+},
+{
+"rank":305,
+"title":"Thunder Force IV",
+"system":"md",
+"year":1992
+},
+{
+"rank":306,
+"title":"Ecco the Dolphin",
+"system":"md",
+"year":1992
+},
+{
+"rank":307,
+"title":"ToeJam & Earl",
+"system":"md",
+"year":1991
+},
+{
+"rank":308,
+"title":"Comix Zone",
+"system":"md",
+"year":1995
+},
+{
+"rank":309,
+"title":"Vectorman",
+"system":"md",
+"year":1995
+},
+{
+"rank":310,
+"title":"Rocket Knight Adventures",
+"system":"md",
+"year":1993
+},
+{
+"rank":311,
+"title":"Dynamite Headdy",
+"system":"md",
+"year":1994
+},
+{
+"rank":312,
+"title":"Ristar",
+"system":"md",
+"year":1995
+},
+{
+"rank":313,
+"title":"Disney's Aladdin",
+"system":"md",
+"year":1993
+},
+{
+"rank":314,
+"title":"Castle of Illusion Starring Mickey Mouse",
+"system":"md",
+"year":1990
+},
+{
+"rank":315,
+"title":"QuackShot",
+"system":"md",
+"year":1991
+},
+{
+"rank":316,
+"title":"The Lion King",
+"system":"md",
+"year":1994
+},
+{
+"rank":317,
+"title":"Mortal Kombat",
+"system":"md",
+"year":1993
+},
+{
+"rank":318,
+"title":"Mortal Kombat 3",
+"system":"md",
+"year":1995
+},
+{
+"rank":319,
+"title":"Street Fighter II': Special Champion Edition",
+"system":"md",
+"year":1993
+},
+{
+"rank":320,
+"title":"Super Street Fighter II",
+"system":"md",
+"year":1994
+},
+{
+"rank":321,
+"title":"Eternal Champions",
+"system":"md",
+"year":1993
+},
+{
+"rank":322,
+"title":"Beyond Oasis",
+"system":"md",
+"year":1994
+},
+{
+"rank":323,
+"title":"Landstalker",
+"system":"md",
+"year":1992
+},
+{
+"rank":324,
+"title":"Shining Force",
+"system":"md",
+"year":1992
+},
+{
+"rank":325,
+"title":"Shining Force II",
+"system":"md",
+"year":1993
+},
+{
+"rank":326,
+"title":"Phantasy Star II",
+"system":"md",
+"year":1989
+},
+{
+"rank":327,
+"title":"Road Rash II",
+"system":"md",
+"year":1992
+},
+{
+"rank":328,
+"title":"Road Rash",
+"system":"md",
+"year":1991
+},
+{
+"rank":329,
+"title":"Micro Machines",
+"system":"md",
+"year":1991
+},
+{
+"rank":330,
+"title":"NBA Jam",
+"system":"md",
+"year":1994
+},
+{
+"rank":331,
+"title":"NHL '94",
+"system":"md",
+"year":1993
+},
+{
+"rank":332,
+"title":"John Madden Football '93",
+"system":"md",
+"year":1992
+},
+{
+"rank":333,
+"title":"Desert Strike",
+"system":"md",
+"year":1992
+},
+{
+"rank":334,
+"title":"Flashback",
+"system":"md",
+"year":1992
+},
+{
+"rank":335,
+"title":"Another World",
+"system":"md",
+"year":1991
+},
+{
+"rank":336,
+"title":"Strider",
+"system":"md",
+"year":1990
+},
+{
+"rank":337,
+"title":"Alien Soldier",
+"system":"md",
+"year":1995
+},
+{
+"rank":338,
+"title":"Wonder Boy in Monster World",
+"system":"md",
+"year":1991
+},
+{
+"rank":339,
+"title":"Herzog Zwei",
+"system":"md",
+"year":1989
+},
+{
+"rank":340,
+"title":"Kid Chameleon",
+"system":"md",
+"year":1992
+},
+{
+"rank":341,
+"title":"Puyo Puyo 2",
+"system":"md",
+"year":1994
+},
+{
+"rank":342,
+"title":"Columns",
+"system":"md",
+"year":1990
+},
+{
+"rank":343,
+"title":"Sonic the Hedgehog",
+"system":"sms",
+"year":1991
+},
+{
+"rank":344,
+"title":"Alex Kidd in Miracle World",
+"system":"sms",
+"year":1986
+},
+{
+"rank":345,
+"title":"Phantasy Star",
+"system":"sms",
+"year":1987
+},
+{
+"rank":346,
+"title":"Wonder Boy III: The Dragon's Trap",
+"system":"sms",
+"year":1989
+},
+{
+"rank":347,
+"title":"Castle of Illusion Starring Mickey Mouse",
+"system":"sms",
+"year":1990
+},
+{
+"rank":348,
+"title":"Shinobi",
+"system":"sms",
+"year":1988
+},
+{
+"rank":349,
+"title":"R-Type",
+"system":"sms",
+"year":1988
+},
+{
+"rank":350,
+"title":"Golden Axe Warrior",
+"system":"sms",
+"year":1991
+},
+{
+"rank":351,
+"title":"Ys: The Vanished Omens",
+"system":"sms",
+"year":1988
+},
+{
+"rank":352,
+"title":"Psycho Fox",
+"system":"sms",
+"year":1989
+},
+{
+"rank":353,
+"title":"Sonic the Hedgehog 2",
+"system":"sms",
+"year":1992
+},
+{
+"rank":354,
+"title":"Kung Fu Kid",
+"system":"sms",
+"year":1987
+},
+{
+"rank":355,
+"title":"Sonic Triple Trouble",
+"system":"gg",
+"year":1994
+},
+{
+"rank":356,
+"title":"Sonic Chaos",
+"system":"gg",
+"year":1993
+},
+{
+"rank":357,
+"title":"Shining Force: The Sword of Hajya",
+"system":"gg",
+"year":1993
+},
+{
+"rank":358,
+"title":"Columns",
+"system":"gg",
+"year":1990
+},
+{
+"rank":359,
+"title":"Dragon Crystal",
+"system":"gg",
+"year":1990
+},
+{
+"rank":360,
+"title":"Shinobi",
+"system":"gg",
+"year":1991
+},
+{
+"rank":361,
+"title":"Land of Illusion Starring Mickey Mouse",
+"system":"gg",
+"year":1992
+},
+{
+"rank":362,
+"title":"Ristar",
+"system":"gg",
+"year":1995
+},
+{
+"rank":363,
+"title":"Tails Adventure",
+"system":"gg",
+"year":1995
+},
+{
+"rank":364,
+"title":"Crash Bandicoot",
+"system":"psx",
+"year":1996
+},
+{
+"rank":365,
+"title":"Crash Bandicoot 2: Cortex Strikes Back",
+"system":"psx",
+"year":1997
+},
+{
+"rank":366,
+"title":"Crash Bandicoot: Warped",
+"system":"psx",
+"year":1998
+},
+{
+"rank":367,
+"title":"Crash Team Racing",
+"system":"psx",
+"year":1999
+},
+{
+"rank":368,
+"title":"Spyro the Dragon",
+"system":"psx",
+"year":1998
+},
+{
+"rank":369,
+"title":"Spyro 2: Ripto's Rage!",
+"system":"psx",
+"year":1999
+},
+{
+"rank":370,
+"title":"Spyro: Year of the Dragon",
+"system":"psx",
+"year":2000
+},
+{
+"rank":371,
+"title":"Final Fantasy VIII",
+"system":"psx",
+"year":1999
+},
+{
+"rank":372,
+"title":"Final Fantasy IX",
+"system":"psx",
+"year":2000
+},
+{
+"rank":373,
+"title":"Final Fantasy Tactics",
+"system":"psx",
+"year":1997
+},
+{
+"rank":374,
+"title":"Chrono Cross",
+"system":"psx",
+"year":1999
+},
+{
+"rank":375,
+"title":"Xenogears",
+"system":"psx",
+"year":1998
+},
+{
+"rank":376,
+"title":"Suikoden II",
+"system":"psx",
+"year":1998
+},
+{
+"rank":377,
+"title":"Vagrant Story",
+"system":"psx",
+"year":2000
+},
+{
+"rank":378,
+"title":"Legend of Dragoon",
+"system":"psx",
+"year":1999
+},
+{
+"rank":379,
+"title":"Parasite Eve",
+"system":"psx",
+"year":1998
+},
+{
+"rank":380,
+"title":"Resident Evil",
+"system":"psx",
+"year":1996
+},
+{
+"rank":381,
+"title":"Resident Evil 2",
+"system":"psx",
+"year":1998
+},
+{
+"rank":382,
+"title":"Resident Evil 3: Nemesis",
+"system":"psx",
+"year":1999
+},
+{
+"rank":383,
+"title":"Silent Hill",
+"system":"psx",
+"year":1999
+},
+{
+"rank":384,
+"title":"Tomb Raider",
+"system":"psx",
+"year":1996
+},
+{
+"rank":385,
+"title":"Tomb Raider II",
+"system":"psx",
+"year":1997
+},
+{
+"rank":386,
+"title":"Tony Hawk's Pro Skater",
+"system":"psx",
+"year":1999
+},
+{
+"rank":387,
+"title":"Tony Hawk's Pro Skater 2",
+"system":"psx",
+"year":2000
+},
+{
+"rank":388,
+"title":"Gran Turismo",
+"system":"psx",
+"year":1997
+},
+{
+"rank":389,
+"title":"Gran Turismo 2",
+"system":"psx",
+"year":1999
+},
+{
+"rank":390,
+"title":"Ridge Racer Type 4",
+"system":"psx",
+"year":1998
+},
+{
+"rank":391,
+"title":"Wipeout 2097",
+"system":"psx",
+"year":1996
+},
+{
+"rank":392,
+"title":"Twisted Metal 2",
+"system":"psx",
+"year":1996
+},
+{
+"rank":393,
+"title":"Tekken 2",
+"system":"psx",
+"year":1996
+},
+{
+"rank":394,
+"title":"Tekken 3",
+"system":"psx",
+"year":1998
+},
+{
+"rank":395,
+"title":"Soul Blade",
+"system":"psx",
+"year":1996
+},
+{
+"rank":396,
+"title":"Street Fighter Alpha 3",
+"system":"psx",
+"year":1998
+},
+{
+"rank":397,
+"title":"Mega Man X4",
+"system":"psx",
+"year":1997
+},
+{
+"rank":398,
+"title":"Mega Man Legends",
+"system":"psx",
+"year":1997
+},
+{
+"rank":399,
+"title":"PaRappa the Rapper",
+"system":"psx",
+"year":1996
+},
+{
+"rank":400,
+"title":"Oddworld: Abe's Oddysee",
+"system":"psx",
+"year":1997
+},
+{
+"rank":401,
+"title":"MediEvil",
+"system":"psx",
+"year":1998
+},
+{
+"rank":402,
+"title":"Ape Escape",
+"system":"psx",
+"year":1999
+},
+{
+"rank":403,
+"title":"Syphon Filter",
+"system":"psx",
+"year":1999
+},
+{
+"rank":404,
+"title":"Driver",
+"system":"psx",
+"year":1999
+},
+{
+"rank":405,
+"title":"Medal of Honor",
+"system":"psx",
+"year":1999
+},
+{
+"rank":406,
+"title":"Dino Crisis",
+"system":"psx",
+"year":1999
+},
+{
+"rank":407,
+"title":"Klonoa: Door to Phantomile",
+"system":"psx",
+"year":1997
+},
+{
+"rank":408,
+"title":"Rayman",
+"system":"psx",
+"year":1995
+},
+{
+"rank":409,
+"title":"Harvest Moon: Back to Nature",
+"system":"psx",
+"year":1999
+},
+{
+"rank":410,
+"title":"Dragon Quest VII",
+"system":"psx",
+"year":2000
+},
+{
+"rank":411,
+"title":"Bushido Blade",
+"system":"psx",
+"year":1997
+},
+{
+"rank":412,
+"title":"Einhander",
+"system":"psx",
+"year":1998
+},
+{
+"rank":413,
+"title":"Doom",
+"system":"psx",
+"year":1995
+},
+{
+"rank":414,
+"title":"Super Mario Advance",
+"system":"gba",
+"year":2001
+},
+{
+"rank":415,
+"title":"Super Mario Advance 4: Super Mario Bros. 3",
+"system":"gba",
+"year":2003
+},
+{
+"rank":416,
+"title":"Super Mario World: Super Mario Advance 2",
+"system":"gba",
+"year":2001
+},
+{
+"rank":417,
+"title":"Yoshi's Island: Super Mario Advance 3",
+"system":"gba",
+"year":2002
+},
+{
+"rank":418,
+"title":"Mario Kart: Super Circuit",
+"system":"gba",
+"year":2001
+},
+{
+"rank":419,
+"title":"Mario & Luigi: Superstar Saga",
+"system":"gba",
+"year":2003
+},
+{
+"rank":420,
+"title":"Metroid Fusion",
+"system":"gba",
+"year":2002
+},
+{
+"rank":421,
+"title":"Metroid: Zero Mission",
+"system":"gba",
+"year":2004
+},
+{
+"rank":422,
+"title":"The Legend of Zelda: The Minish Cap",
+"system":"gba",
+"year":2004
+},
+{
+"rank":423,
+"title":"Pokemon Ruby Version",
+"system":"gba",
+"year":2002
+},
+{
+"rank":424,
+"title":"Pokemon Sapphire Version",
+"system":"gba",
+"year":2002
+},
+{
+"rank":425,
+"title":"Pokemon Emerald Version",
+"system":"gba",
+"year":2004
+},
+{
+"rank":426,
+"title":"Pokemon FireRed Version",
+"system":"gba",
+"year":2004
+},
+{
+"rank":427,
+"title":"Pokemon LeafGreen Version",
+"system":"gba",
+"year":2004
+},
+{
+"rank":428,
+"title":"Advance Wars",
+"system":"gba",
+"year":2001
+},
+{
+"rank":429,
+"title":"Advance Wars 2: Black Hole Rising",
+"system":"gba",
+"year":2003
+},
+{
+"rank":430,
+"title":"Fire Emblem",
+"system":"gba",
+"year":2003
+},
+{
+"rank":431,
+"title":"Golden Sun",
+"system":"gba",
+"year":2001
+},
+{
+"rank":432,
+"title":"Golden Sun: The Lost Age",
+"system":"gba",
+"year":2002
+},
+{
+"rank":433,
+"title":"Final Fantasy Tactics Advance",
+"system":"gba",
+"year":2003
+},
+{
+"rank":434,
+"title":"Castlevania: Aria of Sorrow",
+"system":"gba",
+"year":2003
+},
+{
+"rank":435,
+"title":"Castlevania: Circle of the Moon",
+"system":"gba",
+"year":2001
+},
+{
+"rank":436,
+"title":"WarioWare, Inc.: Mega Microgame$!",
+"system":"gba",
+"year":2003
+},
+{
+"rank":437,
+"title":"Wario Land 4",
+"system":"gba",
+"year":2001
+},
+{
+"rank":438,
+"title":"Kirby & the Amazing Mirror",
+"system":"gba",
+"year":2004
+},
+{
+"rank":439,
+"title":"Kirby: Nightmare in Dream Land",
+"system":"gba",
+"year":2002
+},
+{
+"rank":440,
+"title":"F-Zero: Maximum Velocity",
+"system":"gba",
+"year":2001
+},
+{
+"rank":441,
+"title":"Sonic Advance",
+"system":"gba",
+"year":2001
+},
+{
+"rank":442,
+"title":"Sonic Advance 2",
+"system":"gba",
+"year":2002
+},
+{
+"rank":443,
+"title":"Mega Man Zero",
+"system":"gba",
+"year":2002
+},
+{
+"rank":444,
+"title":"Mega Man Battle Network",
+"system":"gba",
+"year":2001
+},
+{
+"rank":445,
+"title":"Gunstar Super Heroes",
+"system":"gba",
+"year":2005
+},
+{
+"rank":446,
+"title":"Tony Hawk's Pro Skater 2",
+"system":"gba",
+"year":2001
+},
+{
+"rank":447,
+"title":"Harvest Moon: Friends of Mineral Town",
+"system":"gba",
+"year":2003
+},
+{
+"rank":448,
+"title":"The Legend of Zelda: A Link to the Past & Four Swords",
+"system":"gba",
+"year":2002
+},
+{
+"rank":449,
+"title":"Drill Dozer",
+"system":"gba",
+"year":2005
+},
+{
+"rank":450,
+"title":"Astro Boy: Omega Factor",
+"system":"gba",
+"year":2004
+},
+{
+"rank":451,
+"title":"Ninja Five-O",
+"system":"gba",
+"year":2003
+},
+{
+"rank":452,
+"title":"Pitfall!",
+"system":"a2600",
+"year":1982
+},
+{
+"rank":453,
+"title":"River Raid",
+"system":"a2600",
+"year":1982
+},
+{
+"rank":454,
+"title":"Adventure",
+"system":"a2600",
+"year":1980
+},
+{
+"rank":455,
+"title":"Combat",
+"system":"a2600",
+"year":1977
+},
+{
+"rank":456,
+"title":"Space Invaders",
+"system":"a2600",
+"year":1980
+},
+{
+"rank":457,
+"title":"Asteroids",
+"system":"a2600",
+"year":1981
+},
+{
+"rank":458,
+"title":"Missile Command",
+"system":"a2600",
+"year":1981
+},
+{
+"rank":459,
+"title":"Yars' Revenge",
+"system":"a2600",
+"year":1982
+},
+{
+"rank":460,
+"title":"Kaboom!",
+"system":"a2600",
+"year":1981
+},
+{
+"rank":461,
+"title":"Breakout",
+"system":"a2600",
+"year":1978
+},
+{
+"rank":462,
+"title":"Freeway",
+"system":"a2600",
+"year":1981
+},
+{
+"rank":463,
+"title":"Pitfall II: Lost Caverns",
+"system":"a2600",
+"year":1984
+},
+{
+"rank":464,
+"title":"Solaris",
+"system":"a2600",
+"year":1986
+},
+{
+"rank":465,
+"title":"Frogger",
+"system":"a2600",
+"year":1982
+},
+{
+"rank":466,
+"title":"Demon Attack",
+"system":"a2600",
+"year":1982
+},
+{
+"rank":467,
+"title":"H.E.R.O.",
+"system":"a2600",
+"year":1984
+},
+{
+"rank":468,
+"title":"Enduro",
+"system":"a2600",
+"year":1983
+},
+{
+"rank":469,
+"title":"Berzerk",
+"system":"a2600",
+"year":1982
+},
+{
+"rank":470,
+"title":"Haunted House",
+"system":"a2600",
+"year":1982
+},
+{
+"rank":471,
+"title":"Atlantis",
+"system":"a2600",
+"year":1982
+},
+{
+"rank":472,
+"title":"Bonk's Adventure",
+"system":"pce",
+"year":1989
+},
+{
+"rank":473,
+"title":"Bonk's Revenge",
+"system":"pce",
+"year":1991
+},
+{
+"rank":474,
+"title":"Bomberman '93",
+"system":"pce",
+"year":1992
+},
+{
+"rank":475,
+"title":"Splatterhouse",
+"system":"pce",
+"year":1990
+},
+{
+"rank":476,
+"title":"R-Type",
+"system":"pce",
+"year":1988
+},
+{
+"rank":477,
+"title":"Blazing Lazers",
+"system":"pce",
+"year":1989
+},
+{
+"rank":478,
+"title":"Soldier Blade",
+"system":"pce",
+"year":1992
+},
+{
+"rank":479,
+"title":"Alien Crush",
+"system":"pce",
+"year":1988
+},
+{
+"rank":480,
+"title":"Devil's Crush",
+"system":"pce",
+"year":1990
+},
+{
+"rank":481,
+"title":"Ninja Spirit",
+"system":"pce",
+"year":1990
+},
+{
+"rank":482,
+"title":"Military Madness",
+"system":"pce",
+"year":1989
+},
+{
+"rank":483,
+"title":"Neutopia",
+"system":"pce",
+"year":1989
+},
+{
+"rank":484,
+"title":"Dungeon Explorer",
+"system":"pce",
+"year":1989
+},
+{
+"rank":485,
+"title":"The Legendary Axe",
+"system":"pce",
+"year":1988
+},
+{
+"rank":486,
+"title":"Air Zonk",
+"system":"pce",
+"year":1992
+},
+{
+"rank":487,
+"title":"New Adventure Island",
+"system":"pce",
+"year":1992
+},
+{
+"rank":488,
+"title":"Galaga '90",
+"system":"pce",
+"year":1988
+},
+{
+"rank":489,
+"title":"Keith Courage in Alpha Zones",
+"system":"pce",
+"year":1989
+},
+{
+"rank":490,
+"title":"Sonic CD",
+"system":"segacd",
+"year":1993
+},
+{
+"rank":491,
+"title":"Lunar: The Silver Star",
+"system":"segacd",
+"year":1992
+},
+{
+"rank":492,
+"title":"Lunar: Eternal Blue",
+"system":"segacd",
+"year":1994
+},
+{
+"rank":493,
+"title":"Snatcher",
+"system":"segacd",
+"year":1994
+},
+{
+"rank":494,
+"title":"Final Fight CD",
+"system":"segacd",
+"year":1993
+},
+{
+"rank":495,
+"title":"Silpheed",
+"system":"segacd",
+"year":1993
+},
+{
+"rank":496,
+"title":"Night Trap",
+"system":"segacd",
+"year":1992
+},
+{
+"rank":497,
+"title":"Popful Mail",
+"system":"segacd",
+"year":1994
+},
+{
+"rank":498,
+"title":"Robo Aleste",
+"system":"segacd",
+"year":1992
+},
+{
+"rank":499,
+"title":"Road Avenger",
+"system":"segacd",
+"year":1993
+},
+{
+"rank":500,
+"title":"Doom III",
+"system":"doom3",
+"year":2004
+}
+]

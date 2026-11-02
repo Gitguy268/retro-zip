@@ -1,0 +1,33 @@
+retro-zip
+Copyright (C) 2026 Lucas Van De Weerd
+Licensed under the GNU General Public License, version 3. See LICENSE.
+
+retro-zip is not affiliated with or endorsed by any game publisher. Game names are
+trademarks of their owners and are used only to identify the games. The Top 500 is
+an editorial list, not an official chart, and comes with no games or artwork.
+
+Downloaded at setup into vendor/, not stored in this repository
+  EmulatorJS 4.2.3, GPL-3.0. https://github.com/EmulatorJS/EmulatorJS
+    Its emulator cores keep their own licences. snes9x, genesis_plus_gx, fbneo
+    and mame2003_plus restrict commercial use, so retro-zip must not be
+    sold or used commercially while they are included.
+  doom.wasm 0.1.0, GPL-2.0. https://github.com/jacobenget/doom.wasm
+    Based on id Software's Doom source. The file contains the Doom shareware WAD,
+    which is covered by id Software's shareware licence: copies may be given away
+    unmodified and never for money.
+  dhewm3 1.5.5, GPL-3.0, only if you build it. https://github.com/dhewm/dhewm3
+
+Downloaded only when you choose a game
+  Each entry in data/catalog.json records its licence, source and evidence link.
+  Freedoom is BSD-3-Clause. Arcade games from mamedev.org were released by their
+  rights holders for non-commercial use only.
+
+Fonts, SIL Open Font License 1.1 (see public/fonts/LICENSE-*.txt)
+  Pixelify Sans, VT323, Atkinson Hyperlegible
+
+Ideas only, no code
+  Rocks, Snake, Swarm, Bricks, Paddle and Hop are original code in the style of
+  classic arcade genres.
+
+Development only
+  7zip-bin, MIT, unpacks the EmulatorJS release during setup.

@@ -1,0 +1,18 @@
+{
+  "name": "retro-zip",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Retro game library: emulated games in the browser, plus games that run in a terminal.",
+  "license": "GPL-3.0-only",
+  "type": "module",
+  "bin": { "retro-zip": "bin/retro-zip.mjs" },
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "start": "node server.mjs",
+    "vendor": "node scripts/fetch-vendor.mjs",
+    "test": "node --test test/*.test.mjs",
+    "test:terminal": "python3 -I test/pty.test.py",
+    "verify-catalog": "node scripts/verify-catalog.mjs"
+  },
+  "devDependencies": { "7zip-bin": "5.2.0" }
+}

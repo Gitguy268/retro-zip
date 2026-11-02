@@ -1,0 +1,34 @@
+{
+  "allowHosts": ["hh3.gbdev.io", "www.mamedev.org", "github.com", "release-assets.githubusercontent.com", "objects.githubusercontent.com"],
+  "instantBytes": 8388608,
+  "homebrewHub": [
+    ["libbet", "Libbet and the Magic Floor", "gb", "Zlib", "database-gb", "libbet/libbet.gb", "Damian Yerrick", "https://github.com/pinobatch/libbet", 2018],
+    ["el-jamon-volador", "El Jamon Volador", "gb", "GPL-3.0-only", "database-gb", "mateusdigital_el-jamon-volador/files/el-jamon-volador_1.2.1.gb", "mateusdigital", "https://github.com/mateusdigital/el_jamon_volador", null],
+    ["pizza-palace", "Pizza Palace", "gb", "GPL-3.0-only", "database-gb", "zone-booth_pizza-palace/files/pizza_palace.gb", "Zone Booth", "https://github.com/kinostl/Pizza-Palace", null],
+    ["alien-invasion", "Alien Invasion", "gb", "GPL-3.0-only", "database-gb", "alien-invasion/Alien-Invasion.gb", "NiliusJulius", "https://github.com/NiliusJulius/Alien-Invasion", null],
+    ["brekstas-cat", "Breksta's Cat", "gb", "MIT", "database-gb", "brekstascat/brekstascat_1_3.gb", "NotImplementedLife", "https://github.com/NotImplementedLife/brekstascat", null],
+    ["dusky-dungeon", "Dusky Dungeon", "gb", "MIT", "database-gb", "dusky-dungeon/DuskyDungeon-0.1.0.gb", "inverted-hat", "https://github.com/inverted-hat/duskyDungeon", null],
+    ["postie", "Postie", "gb", "MIT", "database-gb", "postie/Postie-1.1.gbc", "inverted-hat", "https://github.com/inverted-hat/postie", null],
+    ["trabant", "Trabant", "gb", "GPL-3.0-only", "database-gb", "trabant/Trabant_1_3.gbc", "NotImplementedLife", "https://github.com/NotImplementedLife/Trabant", null],
+    ["unstoppable-knight", "Unstoppable Knight", "gb", "MIT", "database-gb", "unstoppable-knight/knight2.gb", "Rafagars", "https://github.com/Rafagars/Unstoppable-Knight-GB", null],
+    ["wyrmhole", "WYRMHOLE", "gb", "MIT", "database-gb", "wyrmhole/Wyrmhole.gb", "QuinnPainter", "https://github.com/QuinnPainter/Wyrmhole", null],
+    ["qulqy", "qulqy", "gb", "BSD-3-Clause", "database-gb", "plyr0_qulqy/files/qulqy_jam.gbc", "plyr0", "https://codeberg.org/plyr0/qulqy", null],
+    ["beatbeast", "BeatBeast", "gba", "MIT", "database-gba", "afska_beat-beast/files/BeatBeast_jam.gba", "afska", "https://github.com/afska/beat-beast", null],
+    ["gbadev-containers", "GBADEV Containers", "gba", "Zlib", "database-gba", "breadmakesyoufull_gbadev-containers/files/gbadev-containers_jam.gba", "BreadMakesYouFull", "https://github.com/BreadMakesYouFull/gbadev-containers", null],
+    ["galactic-quest", "Galactic Quest", "gba", "GPL-3.0-only", "database-gba", "origamiscienceguy_galactic-quest/files/Galactic_Quest_jam.gba", "origamiscienceguy", "https://github.com/origamiscienceguy/Galactic-Quest", null],
+    ["solar-guard", "Solar Guard", "gba", "GPL-3.0-only", "database-gba", "solar-guard/Solar_Guard_GBA_JAM_2021.gba", "Deft-Spade", "https://github.com/Deft-Spade/Solar-Guard", null],
+    ["concentration-room", "Concentration Room", "nes", "GPL-3.0-or-later", "database-nes", "croom/croom.nes", "Damian Yerrick", "https://github.com/pinobatch/croom-nes", null],
+    ["nova-the-squirrel", "Nova the Squirrel", "nes", "GPL-3.0-or-later", "database-nes", "novathesquirrel/nova.nes", "NovaSquirrel", "https://github.com/NovaSquirrel/NovaTheSquirrel", null],
+    ["thwaite", "Thwaite", "nes", "GPL-3.0-or-later", "database-nes", "thwaite/thwaite128.nes", "Damian Yerrick", "https://github.com/pinobatch/thwaite-nes", null]
+  ],
+  "direct": [
+    {"id": "klele-atoms", "title": "KleleAtoms", "system": "md", "license": "MIT", "author": "Nightwolf-47", "evidence": "https://github.com/Nightwolf-47/KleleAtoms-MD", "url": "https://github.com/Nightwolf-47/KleleAtoms-MD/releases/download/v1.2.1/kleleatoms-md-121.bin", "fileName": "kleleatoms-md-121.bin"},
+    {"id": "freedoom", "title": "Freedoom", "system": "doom", "license": "BSD-3-Clause", "author": "Freedoom project", "evidence": "https://github.com/freedoom/freedoom", "url": "https://github.com/freedoom/freedoom/releases/download/v0.13.0/freedoom-0.13.0.zip", "fileName": "freedoom-0.13.0.zip", "format": "zip", "wad": "freedoom1.wad"}
+  ],
+  "mameFree": [
+    ["alienar", "Alien Arena", 1985], ["carpolo", "Car Polo", 1977], ["circus", "Circus", 1977], ["crash", "Crash", 1979],
+    ["fireone", "Fire One", 1979], ["gridlee", "Gridlee", 1982], ["hardhat", "Hard Hat", 1982], ["ripcord", "Rip Cord", 1979],
+    ["robby", "Robby Roto", 1981], ["robotbwl", "Robot Bowl", 1977], ["sidetrac", "Side Trak", 1979], ["spectar", "Spectar", 1980],
+    ["starfire", "Star Fire", 1979], ["supertnk", "Super Tank", 1981], ["targ", "Targ", 1980], ["teetert", "Teeter Torture", 1982]
+  ]
+}
