@@ -4,6 +4,36 @@ A retro game library with two modes. Normal mode runs emulated games in the brow
 
 ![Home page](docs/home.png)
 
+<!-- run-steps:start -->
+## Run it locally, step by step
+
+1. **Install [Node.js](https://nodejs.org) 22** or newer.
+
+2. **Get the code:**
+
+   ```sh
+   git clone https://github.com/Gitguy268/retro-zip.git
+   cd retro-zip
+   ```
+
+3. **Install and download the emulator files** (about 310 MB, of which about 85 MB is kept):
+
+   ```sh
+   npm install
+   npm run vendor
+   ```
+
+4. **Start it:**
+
+   ```sh
+   npm start
+   ```
+
+   On a Mac you can double-click `start.command` instead of these two steps.
+
+5. **Open <http://127.0.0.1:8642/>** in your browser. Press `Ctrl+C` in the terminal to stop.
+<!-- run-steps:end -->
+
 ## What you can play
 
 | | Where it comes from | Download |
