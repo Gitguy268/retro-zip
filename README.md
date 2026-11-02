@@ -4,6 +4,10 @@ A retro game library with two modes. Normal mode runs emulated games in the brow
 
 ![Home page](docs/home.png)
 
+<!-- live-links -->
+**Project page:** [gitguy268.github.io/retro-zip](https://gitguy268.github.io/retro-zip/) · [retro-zip.vercel.app](https://retro-zip.vercel.app)
+<!-- /live-links -->
+
 <!-- run-steps:start -->
 ## Run it locally, step by step
 
