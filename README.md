@@ -8,6 +8,17 @@ A retro game library with two modes. Normal mode runs emulated games in the brow
 **Project page:** [gitguy268.github.io/retro-zip](https://gitguy268.github.io/retro-zip/) · [retro-zip.vercel.app](https://retro-zip.vercel.app)
 <!-- /live-links -->
 
+## Install with Homebrew
+
+```sh
+brew trust gitguy268/tap
+brew install gitguy268/tap/retro-zip
+retro-zip            # terminal games
+retro-zip-server     # the browser library at http://127.0.0.1:8642/
+```
+
+The formula includes the pinned EmulatorJS cores and the Doom engine, so it needs no `npm run vendor`.
+
 <!-- run-steps:start -->
 ## Run it locally, step by step
 
